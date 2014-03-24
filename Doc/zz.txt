@@ -1,0 +1,8 @@
+  McasArg.FNM_SING     //"Result.en"
+  
+  McasStep.TODO_QUERY_ALL
+  McasStep.TODO_QUERY_CARD
+  McasStep.TODO_ES_ADJ             // //無 電話 email, 需另外取得
+  
+  
+  
